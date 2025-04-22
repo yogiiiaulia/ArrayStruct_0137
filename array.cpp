@@ -30,4 +30,4 @@ int main()
     {
         cout << "Nama ke " << i + 1 << " = " << nama[i] << endl;
     }
-}
+} 
